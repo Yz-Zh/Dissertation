@@ -1,0 +1,215 @@
+NAME,0,1,group
+Wanxiang Town,0.013848646,0.136793707,4.low demand & low accessibility
+Academy Town,0.01442463,0.044074817,4.low demand & low accessibility
+Zhoupu Town,0.047067105,0.698177156,2.mid demand & low accessibility
+Datuan Town,0.018631447,0.176576238,4.low demand & low accessibility
+Xuanqiao Town,0.017121605,0.198044681,4.low demand & low accessibility
+Kangqiao Town,0.057731649,0.759802264,2.mid demand & low accessibility
+Huinan Town,0.043818094,0.183863608,4.low demand & low accessibility
+Xinchang Town,0.021097915,0.444378332,4.low demand & low accessibility
+Hangtou Town,0.02469402,0.616512029,2.mid demand & low accessibility
+Nanhui New Town,0.005164223,0.030652032,4.low demand & low accessibility
+Wuliqiao Street,0.368995375,0.884208945,3.mid demand & mid accessibility
+Dapuqiao Street,0.514943403,0.899570521,1.high demand & high accessibility
+Huaihai Zhonglu Street,0.570543685,1,1.high demand & high accessibility
+Ruijin Second Road Street,0.351661378,0.928845716,3.mid demand & mid accessibility
+Huating Town,0.015426743,0.291530373,4.low demand & low accessibility
+Nanxiang Town,0.057483059,0.702088295,2.mid demand & low accessibility
+Jiading Town Street,0.051532399,0.529987153,2.mid demand & low accessibility
+Waigang Town,0.021198312,0.311545348,4.low demand & low accessibility
+Anting Town,0.034960837,0.275108497,4.low demand & low accessibility
+Xuhang Town,0.02107164,0.319816889,4.low demand & low accessibility
+New Road Street,0.040017625,0.623820936,2.mid demand & low accessibility
+Jiangqiao Town,0.08306778,0.808527475,2.mid demand & low accessibility
+Zhenxin Street,0.28422793,0.82127812,3.mid demand & mid accessibility
+Malu Town,0.041206352,0.600419712,2.mid demand & low accessibility
+Fengpu Street,0.020932045,0.530881672,2.mid demand & low accessibility
+Situan Town,0.011643797,0.262134974,4.low demand & low accessibility
+Fengcheng,0.021583834,0.24914893,4.low demand & low accessibility
+Zhuanghang Town,0.01166466,0.238105684,4.low demand & low accessibility
+Zhelin Town,0.007752874,0.294038631,4.low demand & low accessibility
+Gulf Town,0.00287471,0.134256901,4.low demand & low accessibility
+Jinhui Town,0.019915342,0.465132563,2.mid demand & low accessibility
+Qingcun Town,0.016142125,0.376831171,4.low demand & low accessibility
+Friendship Street,0.083213126,0.707725865,2.mid demand & low accessibility
+Wusong Town Street,0.119053376,0.737809932,2.mid demand & low accessibility
+Dachang Town,0.138270743,0.812314404,3.mid demand & mid accessibility
+Miaohang Town,0.206607346,0.793050704,3.mid demand & mid accessibility
+Zhangmiao Street,0.498746086,0.813601088,1.high demand & high accessibility
+Yuepu Town,0.039695159,0.565616634,2.mid demand & low accessibility
+Yanghang Town,0.070812045,0.745613178,2.mid demand & low accessibility
+Songnan Town,0.123589469,0.745929215,2.mid demand & low accessibility
+Luodian Town,0.036137337,0.577054049,2.mid demand & low accessibility
+Luojing Town,0.017627533,0.346732579,4.low demand & low accessibility
+Gucun Town,0.078818123,0.792135149,2.mid demand & low accessibility
+Gaojie Town,0.247503831,0.843995683,3.mid demand & mid accessibility
+Samsung Town,0.004890283,0.389622885,4.low demand & low accessibility
+Dongping Town,0.000831383,0.298157122,4.low demand & low accessibility
+Zhongxing Town,0.004180092,0.194466106,4.low demand & low accessibility
+Xianghua Town,0.006891739,0.30618575,4.low demand & low accessibility
+Chengqiao Town,0.026432395,0.486163763,2.mid demand & low accessibility
+Castle Town,0.012509693,0.237745573,4.low demand & low accessibility
+Temple town,0.005752359,0.451845007,4.low demand & low accessibility
+Construction Town,0.007671264,0.442517674,4.low demand & low accessibility
+New Village and Township,0.002817753,0.271361136,4.low demand & low accessibility
+Xinhe Town,0.007574116,0.420767753,4.low demand & low accessibility
+Xinhai Town,0,0.279815487,4.low demand & low accessibility
+Hengsha Township,0.006653368,0,4.low demand & low accessibility
+Gangbian Town,0.005530595,0.233253949,4.low demand & low accessibility
+Gangxi Town,0.006156533,0.455183674,4.low demand & low accessibility
+Lixin Town,0.006894472,0.349093586,4.low demand & low accessibility
+Luhua Town,0.001538598,0.351545749,4.low demand & low accessibility
+Changxing Town,0.016200179,0.364186206,4.low demand & low accessibility
+Chenjia,0.007080402,0.226145883,4.low demand & low accessibility
+Lingyun Road Street,0.419509692,0.888077011,3.mid demand & mid accessibility
+Huajing Town,0.127947402,0.879047683,3.mid demand & mid accessibility
+Tianping Road Street,0.311440995,0.916195742,3.mid demand & mid accessibility
+Kangjian Xincun Street,0.341699731,0.904912088,3.mid demand & mid accessibility
+Xujiahui Street,0.315952647,0.913832731,3.mid demand & mid accessibility
+Slope Road Street,0.302962102,0.886954105,3.mid demand & mid accessibility
+Fenglin Road Street,0.578513838,0.914007528,1.high demand & high accessibility
+Hunan Road Street,0.29171785,0.907905169,3.mid demand & mid accessibility
+Caohejing Street,0.258584708,0.92277441,3.mid demand & mid accessibility
+Tianlin Street,0.33341589,0.939774768,3.mid demand & mid accessibility
+Hongmei Road Street,0.109446067,0.915559663,3.mid demand & mid accessibility
+Long Bridge Street,0.279642883,0.857138993,3.mid demand & mid accessibility
+Longhua Subdistrict,0.192818166,0.886424706,3.mid demand & mid accessibility
+Yichuan Road Street,0.693350288,0.946962469,1.high demand & high accessibility
+Cao Yang Xincun Street,0.648731477,0.930394344,1.high demand & high accessibility
+Taopu Town,0.141560175,0.846975741,3.mid demand & mid accessibility
+Ganquan Road Street,0.659758563,0.909652635,1.high demand & high accessibility
+True as a town street,0.274229784,0.926702077,3.mid demand & mid accessibility
+Shiquan Road Street,0.481864493,0.916045487,1.high demand & high accessibility
+Longevity Road Street,0.442867392,0.956392977,1.high demand & high accessibility
+Changfeng Xincun Street,0.281860953,0.90351121,3.mid demand & mid accessibility
+Wujiaochang Street,0.27637366,0.873133644,3.mid demand & mid accessibility
+Wujiaochang Town,0.277171047,0.797869884,3.mid demand & mid accessibility
+Siping Road Street,0.483875959,0.868978591,1.high demand & high accessibility
+Bridge Street,0.391206859,0.83169981,3.mid demand & mid accessibility
+Dinghai Road Street,0.220388886,0.764239797,3.mid demand & mid accessibility
+Pingliang Road Street,0.369230851,0.845996579,3.mid demand & mid accessibility
+Yanji Xincun Street,0.636269081,0.815936051,1.high demand & high accessibility
+Jianjiang Road Street,0.680924485,0.856315596,1.high demand & high accessibility
+Xinjiangwancheng Street,0.042188162,0.793668252,2.mid demand & low accessibility
+Yinhang Street,0.278977527,0.708998024,3.mid demand & mid accessibility
+Jiangpu Road Street,0.569154553,0.845025932,1.high demand & high accessibility
+Changbai Xincun Street,0.317114141,0.769684039,3.mid demand & mid accessibility
+Zhongshan Street,0.033370784,0.596149464,2.mid demand & low accessibility
+Sheshan Town,0.014792354,0.349505285,4.low demand & low accessibility
+Yexie Town,0.014561024,0.534589966,2.mid demand & low accessibility
+Xiaokunshan Town,0.014175733,0.317792954,4.low demand & low accessibility
+Yueyang Street,0.27635442,0.489294077,2.mid demand & low accessibility
+Xinqiao Town,0.06048205,0.582388605,2.mid demand & low accessibility
+Xinbang Town,0.009631394,0.180426274,4.low demand & low accessibility
+Yongfeng Street,0.051969414,0.281072621,4.low demand & low accessibility
+Sigang Town,0.009224799,0.245841816,4.low demand & low accessibility
+Sijing Town,0.053865718,0.583216009,2.mid demand & low accessibility
+Dongjing Town,0.032261222,0.567342564,2.mid demand & low accessibility
+Shihudang Town,0.012978126,0.428591534,4.low demand & low accessibility
+Chedun Town,0.04460202,0.491607504,2.mid demand & low accessibility
+Sanlin Town,0.145317644,0.890654386,3.mid demand & mid accessibility
+Shanggang Xincun Street,0.190758731,0.925404374,3.mid demand & mid accessibility
+Dongming Road Street,0.342172942,0.903197177,3.mid demand & mid accessibility
+Beicai Town,0.156206099,0.738694935,2.mid demand & low accessibility
+South Pier Road Street,0.348952352,0.835509778,3.mid demand & mid accessibility
+Heqing Town,0.041602445,0.530357281,2.mid demand & low accessibility
+Zhou Jiadu Street,0.361315034,0.886905021,3.mid demand & mid accessibility
+Tang Zhen,0.057048006,0.721730638,2.mid demand & low accessibility
+Tangqiao Street,0.275385984,0.816917718,3.mid demand & mid accessibility
+Zhangjiang Town,0.048962092,0.748809604,2.mid demand & low accessibility
+Cao Lu Town,0.054782433,0.535619214,2.mid demand & low accessibility
+"Xincun Street, East Shanghai",0.285613235,0.686506845,3.mid demand & mid accessibility
+Yangjing Subdistrict,0.261040563,0.817958985,3.mid demand & mid accessibility
+Puxing Road Street,0.400023726,0.705059338,3.mid demand & mid accessibility
+Weifang Xincun Street,0.371437075,0.849818066,3.mid demand & mid accessibility
+Huamu Street,0.148545733,0.757595018,2.mid demand & low accessibility
+Jinyang Xincun Street,0.35519177,0.801664826,3.mid demand & mid accessibility
+Jinqiao Town,0.04330276,0.730953794,2.mid demand & low accessibility
+Lujiazui Street,0.237689978,0.870124036,3.mid demand & mid accessibility
+Gaodong,0.042674931,0.671918582,2.mid demand & low accessibility
+Gaoqiao Town,0.064866752,0.664484462,2.mid demand & low accessibility
+Gaohang Town,0.083663598,0.692876658,2.mid demand & low accessibility
+Liangcheng Xincun Street,0.417882186,0.912330681,3.mid demand & mid accessibility
+Jiaxing Road Street,0.665720583,0.887729922,1.high demand & high accessibility
+Guangzhong Road Street,0.583087838,0.888383531,1.high demand & high accessibility
+North Bund Street,0.350895362,0.896369587,3.mid demand & mid accessibility
+Quyang Road Street,0.464174569,0.937480373,1.high demand & high accessibility
+Ouyang Road Street,0.602959678,0.920486025,1.high demand & high accessibility
+Jiangwan Town Street,0.421336864,0.86543758,3.mid demand & mid accessibility
+Tinglin Town,0.013204797,0.222426569,4.low demand & low accessibility
+Jinshan Weizhen,0.017182395,0.08018862,4.low demand & low accessibility
+Luxiang Town,0.011536708,0.075217181,4.low demand & low accessibility
+Shanyang Town,0.027023923,0.168070299,4.low demand & low accessibility
+Langxia Town,0.009193214,0.034759003,4.low demand & low accessibility
+Zhangyan Town,0.013947599,0.106444189,4.low demand & low accessibility
+Zhujing Town,0.021260825,0.142932127,4.low demand & low accessibility
+Fengjing Town,0.011692741,0.126459665,4.low demand & low accessibility
+Caojing Town,0.010429428,0.137907598,4.low demand & low accessibility
+Petrochemical Street,0.069613654,0.033456793,4.low demand & low accessibility
+Xianxia Xincun Street,0.521060365,0.906636515,1.high demand & high accessibility
+Beixinjing Street,0.449991698,0.895506622,1.high demand & high accessibility
+Huayang Road Street,0.477387659,0.898043429,1.high demand & high accessibility
+Zhou Jiaqiao Street,0.415608656,0.924601511,3.mid demand & mid accessibility
+Tianshan Road Street,0.533928923,0.956741068,1.high demand & high accessibility
+Xinhua Road Street,0.461929342,0.965507449,1.high demand & high accessibility
+Xinjing Town,0.169157131,0.865121544,3.mid demand & mid accessibility
+Jiangsu Road Street,0.476353867,0.959283884,1.high demand & high accessibility
+Chengjiaqiao Street,0.042168124,0.903414546,3.mid demand & mid accessibility
+Hongqiao Street,0.202876997,0.991603247,3.mid demand & mid accessibility
+Qibao Town,0.1956989,0.895958389,3.mid demand & mid accessibility
+Huacao Town,0.094220646,0.697234055,2.mid demand & low accessibility
+Gumei Road Street,0.328849719,0.873015444,3.mid demand & mid accessibility
+Wujing Town,0.048051162,0.86827089,2.mid demand & low accessibility
+Xinhong Street,0.046426828,0.792773233,2.mid demand & low accessibility
+Meilong Town,0.164832358,0.901480764,3.mid demand & mid accessibility
+Jiangchuan Road Street,0.110819371,0.444630761,4.low demand & low accessibility
+Xinzhuang Town,0.200844657,0.796060312,3.mid demand & mid accessibility
+Hongqiao Town,0.207997476,0.9296611,3.mid demand & mid accessibility
+Zhunqiao Town,0.06194935,0.675839738,2.mid demand & low accessibility
+Maqiao Town,0.036474724,0.494447825,2.mid demand & low accessibility
+Linfen Road Street,0.50415026,0.852074396,1.high demand & high accessibility
+Gongxin Road Street,0.494813737,0.954312445,1.high demand & high accessibility
+North Station Street,0.614747744,0.898078488,1.high demand & high accessibility
+Daning Road Street,0.169904356,0.893535276,3.mid demand & mid accessibility
+Tianmu West Road Street,0.24715998,0.909828434,3.mid demand & mid accessibility
+Baoshan Road Street,0.689444773,0.914744779,1.high demand & high accessibility
+Pengpu Xincun Street,0.657482426,0.850642966,1.high demand & high accessibility
+Pengpu Town,0.267805393,0.914570483,3.mid demand & mid accessibility
+Zhijiang West Road Street,0.654631744,0.928408473,1.high demand & high accessibility
+Huaxin Town,0.043773817,0.634331778,2.mid demand & low accessibility
+Xiayang Street,0.05032786,0.567232377,2.mid demand & low accessibility
+Jing Town,0.044872675,0.800642591,2.mid demand & low accessibility
+Zhujiajiao Town,0.009035904,0.325977347,4.low demand & low accessibility
+Baihe Town,0.020966146,0.380790392,4.low demand & low accessibility
+Yingpu Street,0.100533826,0.251386729,4.low demand & low accessibility
+Liantang Town,0.009429215,0.099790394,4.low demand & low accessibility
+Zhaoxiang Town,0.026867296,0.704404727,2.mid demand & low accessibility
+Chonggu Town,0.022121502,0.596175007,2.mid demand & low accessibility
+Jinze Town,0.007850782,0.201860658,4.low demand & low accessibility
+Xianghuaqiao Street,0.020561702,0.334685629,4.low demand & low accessibility
+Nanjing West Road Street,0.311422676,0.935383814,3.mid demand & mid accessibility
+Caojiadu Street,0.666812914,0.922028644,1.high demand & high accessibility
+Jiangning Road Street,0.56444733,0.902726879,1.high demand & high accessibility
+Shimen Second Street,0.443532734,0.911753702,1.high demand & high accessibility
+Jingan Temple Street,0.25680812,0.953930297,3.mid demand & mid accessibility
+Bansong Garden,0.43485605,0.884738844,1.high demand & high accessibility
+Nanjing East Road,0.382625751,0.940802512,3.mid demand & mid accessibility
+The Bund,0.410261219,0.89105757,3.mid demand & mid accessibility
+Little East Gate,0.395085564,0.891276442,3.mid demand & mid accessibility
+Old Simon,1,0.926285369,1.high demand & high accessibility
+Yu Garden,0.706014962,0.917640695,1.high demand & high accessibility
+Nanqiao Town,0.111477525,0.318129525,4.low demand & low accessibility
+Xidu Street,0.058194124,0.536835779,2.mid demand & low accessibility
+Pujiang Town,0.050725615,0.790962158,2.mid demand & low accessibility
+Pujin Street,0.068372416,0.765807959,2.mid demand & low accessibility
+Jiuting Town,0.139783172,0.69797932,2.mid demand & low accessibility
+Jiuliting Street,0.260359095,0.876390172,3.mid demand & mid accessibility
+Fangsong Street,0.141024729,0.403257029,4.low demand & low accessibility
+Guangfulin Street,0.062683621,0.294025108,4.low demand & low accessibility
+Chuansha New Town,0.052937468,0.683968036,2.mid demand & low accessibility
+Zhuqiao Town,0.008626361,0.3032107,4.low demand & low accessibility
+Laogang Town,0.00709331,0.180984221,4.low demand & low accessibility
+Nicheng,0.013762911,0.152222398,4.low demand & low accessibility
+Changzheng Town,0.42763576,0.874836535,3.mid demand & mid accessibility
+Wanli Street,0.27461151,0.869323677,3.mid demand & mid accessibility
+Sichuan North Road Street,0.685658249,0.880349393,1.high demand & high accessibility
